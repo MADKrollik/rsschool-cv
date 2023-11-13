@@ -1,1 +1,1 @@
-https://madkrollik.github.io/rsschool-cv/cv
+https://madkrollik.github.io/rsschool-cv/
