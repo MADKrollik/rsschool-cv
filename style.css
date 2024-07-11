@@ -122,12 +122,10 @@ padding: 70px 10px 70px 10px;
 }
 
 .navigation__link {
-    display: block;
     padding: 0 0 43px 0;
     font-weight: 700;
     font-size: 2.2rem;
     line-height: 2.7rem;
-
 }
 
 .navigation__text {
@@ -259,6 +257,10 @@ code {
     line-height: 2.7rem;
 }
 
+.bottom-side__experience ul {
+    padding-left: 23px;
+}
+
 .english__title {
     font-weight: 600;
     font-size: 3.2rem;
@@ -281,6 +283,10 @@ width: 490px;
     font-weight: 500;
     font-size: 2.2rem;
     line-height: 2.7rem;
+}
+
+.bottom-side__english ul {
+    padding-left: 23px;
 }
 
 /* FOOTER */
